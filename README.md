@@ -8,4 +8,4 @@ java MyProgram.java
 
 
 Dictionary created based on given file on an linked array list. 
-Program can be easily expanded to store the misspelled words in an arraylist in method. 
+Program can be easily expanded to store the misspelled words in an arraylist in method analyze(Scanner input) in MyProgram.java. 
