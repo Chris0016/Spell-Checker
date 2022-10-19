@@ -1,4 +1,4 @@
-# Mispelled-Words-Counter
+# Spell Checker
 Java based program that counts misspelled words in a file. 
 
 
